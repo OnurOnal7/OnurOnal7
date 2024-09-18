@@ -1,3 +1,3 @@
 # Onur Onal
 
-## About Me
+Hello, my name is Onur. I am a Software Engineering student at Iowa State University.
